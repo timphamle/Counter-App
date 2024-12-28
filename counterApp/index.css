@@ -1,5 +1,5 @@
 body {
-    background-image: url("train\ station.jpg");
+    background-image: url("station.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -54,9 +54,10 @@ button {
     background: white;
     border: solid;
     border-width: 2px;
-    width: 300px;
+    max-width: 300px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    padding: 0 5px
 }
 
